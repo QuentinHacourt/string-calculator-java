@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
  * Calculator
  */
 public class Calculator {
-    Calculator() {}
+    public Calculator() {}
 
     public int Add(String input){
         String[] numbers;
